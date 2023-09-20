@@ -10,8 +10,8 @@
 - [Access](#access)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Setup](#setup)
-- [Usage](#usage)
+
+  
 
 # Introduction
 
@@ -32,14 +32,8 @@ This project is available at [Carrom Board](https://carrom.pages.dev/). All the 
 - HTML5
 - CSS
 
-# Setup
 
-To set up the project locally for development or testing, follow the steps below:
 
-1. Clone the repository:
-   
-   ```sh
-   git clone https://github.com/your-username/carrom-board-fan-page.git
 
 
 
